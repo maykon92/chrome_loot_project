@@ -119,12 +119,6 @@ This project was created solely to raise awareness about how social engineering 
 
 ---
 
-## 📄 License
-
-This project is provided under the MIT License. You are free to use, modify, and distribute it for educational or ethical research purposes. **You must not use it for malicious purposes.**
-
----
-
 ## 🙋 About the Author
 
 Developed by **Maykon Da Luz**, cybersecurity student and software developer.
